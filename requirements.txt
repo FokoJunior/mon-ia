@@ -2,6 +2,7 @@ python-telegram-bot==20.3
 openai==0.28.0  # Ou la dernière version si vous migrez : >=1.0.0
 Pillow==9.5.0
 cohere==3.4.0
+logging==0.4.9.
 python-dotenv==1.0.0  # Pour gérer les variables d'environnement
 requests==2.31.0  # Requis par OpenAI et pour d'autres requêtes HTTP
-logging==0.5.1.2  # Gestion avancée de logs
+#logging==0.5.1.2  # Gestion avancée de logs
